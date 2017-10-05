@@ -31,7 +31,7 @@ import android.view.MenuItem;
 
 import java.io.File;
 
-import com.cyanogenmod.settings.device.utils.FileUtils;
+import com.android.internal.util.cm.FileUtils;
 
 public class ButtonSettingsFragment extends PreferenceFragment
         implements OnPreferenceChangeListener {
