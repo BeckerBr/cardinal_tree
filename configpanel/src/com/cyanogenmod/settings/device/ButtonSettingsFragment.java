@@ -31,8 +31,6 @@ import android.view.MenuItem;
 
 import java.io.File;
 
-import com.android.settingslib.drawer.SettingsDrawerActivity;
-
 import com.cyanogenmod.settings.device.utils.FileUtils;
 
 public class ButtonSettingsFragment extends PreferenceFragment
